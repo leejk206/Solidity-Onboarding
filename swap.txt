@@ -1,0 +1,12 @@
+MyToken1 
+0x848128cb314f0a407C6750B13b045d67e59ccD8B
+MyToken2
+0x63Ad55Fa8dcB9d5f7819Da021AE652E6E6c0f3B5
+
+swap transaction addr
+0x8cdB218150fDa4a52A243f8D913551b35D1f7940
+
+pool addr
+0xa26F310ee3dDe751a6f50c8E0c5FD62a6cF1AC9b
+
+pool에 실제로 유동성 공급을 하지 않아 현재 교환은 불가능함.
